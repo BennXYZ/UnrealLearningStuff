@@ -1,0 +1,3 @@
+X:\EigeneDateien\Dokumente\Github\UnrealLearningStuff\UnrealProject\MyLearningProject\Intermediate\Build\Win64\UE4Editor\Development\MyLearningProject\Definitions.MyLearningProject.h
+X:\Programs\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+X:\Programs\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

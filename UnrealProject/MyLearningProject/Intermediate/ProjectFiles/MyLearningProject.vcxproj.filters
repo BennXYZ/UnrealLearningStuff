@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyLearningProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8F2989F3-F8DD-4602-97FB-77974C68A423}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyLearningProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyLearningProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{84CE52A0-6110-4D63-BB31-D096AF98D2CB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyLearningProject">
+      <UniqueIdentifier>{347A159F-2B64-459D-8D0F-E48C73075764}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyLearningProject\MyLearningProject.Build.cs">
+      <Filter>Source\MyLearningProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyLearningProject\MyLearningProject.cpp">
+      <Filter>Source\MyLearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyLearningProject\MyLearningProject.h">
+      <Filter>Source\MyLearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyLearningProject\MyLearningProjectCharacter.cpp">
+      <Filter>Source\MyLearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyLearningProject\MyLearningProjectCharacter.h">
+      <Filter>Source\MyLearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyLearningProject\MyLearningProjectGameMode.cpp">
+      <Filter>Source\MyLearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyLearningProject\MyLearningProjectGameMode.h">
+      <Filter>Source\MyLearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyLearningProject\MyLearningProjectHUD.cpp">
+      <Filter>Source\MyLearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyLearningProject\MyLearningProjectHUD.h">
+      <Filter>Source\MyLearningProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyLearningProject\MyLearningProjectProjectile.cpp">
+      <Filter>Source\MyLearningProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyLearningProject\MyLearningProjectProjectile.h">
+      <Filter>Source\MyLearningProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

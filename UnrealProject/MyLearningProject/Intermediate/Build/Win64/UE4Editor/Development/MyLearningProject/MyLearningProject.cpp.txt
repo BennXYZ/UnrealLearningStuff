@@ -1,0 +1,2 @@
+X:\EigeneDateien\Dokumente\Github\UnrealLearningStuff\UnrealProject\MyLearningProject\Intermediate\Build\Win64\UE4Editor\Development\MyLearningProject\Definitions.MyLearningProject.h
+X:\EigeneDateien\Dokumente\Github\UnrealLearningStuff\UnrealProject\MyLearningProject\Source\MyLearningProject\MyLearningProject.h

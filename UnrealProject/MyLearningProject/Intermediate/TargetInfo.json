@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyLearningProject",
+			"Path": "X:\\EigeneDateien\\Dokumente\\Github\\UnrealLearningStuff\\UnrealProject\\MyLearningProject\\Source\\MyLearningProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyLearningProjectEditor",
+			"Path": "X:\\EigeneDateien\\Dokumente\\Github\\UnrealLearningStuff\\UnrealProject\\MyLearningProject\\Source\\MyLearningProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
